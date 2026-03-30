@@ -1,4 +1,4 @@
-<h1 align=center font-weight:100> [Under Review] 🌍: Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale</h1>
+<h1 align=center font-weight:100> [Under Review] 🌍 Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale</h1>
 
 <p align="center">
   <a href="mailto:weidongxu@westlake.edu.cn">Dongxu Wei*</a>
