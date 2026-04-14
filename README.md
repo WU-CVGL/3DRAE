@@ -24,7 +24,7 @@
 https://github.com/user-attachments/assets/9c584612-5fa0-4cfb-b711-046b8c0a2446
 
 ## News
-- 2026/3/31: Our paper is available on <a href="https://arxiv.org/abs/xxxx.xxxxx">arXiv</a>. Code will be released soon. Stay tuned!
+- 2026/4/13: Our paper is available on <a href="https://arxiv.org/abs/2604.11331">arXiv</a>. Code will be released soon. Stay tuned!
 
 ## TODO
 - [ ] Release code
