@@ -18,7 +18,11 @@
   <a href="https://zhpcui.github.io/">Zhaopeng Cui</a>
   &nbsp;·&nbsp;
   <a href="https://ethliup.github.io/">Peidong Liu✉️</a>
-  <h3 align="center"><a href="https://arxiv.org/abs/xxxx.xxxxx">Paper</a> | <a href="https://wswdx.github.io/3DRAE">Project Page</a> </h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2604.11331">Paper</a> | <a href="https://wswdx.github.io/3DRAE">Project Page</a> </h3>
+</p>
+
+<p align="center">
+If you find this repository useful, please give us a star🌟!
 </p>
 
 https://github.com/user-attachments/assets/9c584612-5fa0-4cfb-b711-046b8c0a2446
