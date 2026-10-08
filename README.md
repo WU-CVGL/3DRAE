@@ -1,4 +1,4 @@
-<h1 align=center font-weight:100> [Under Review] 🌍 Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale</h1>
+<h1 align=center font-weight:100> [NeurIPS 2026] 🌍 Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale</h1>
 
 <p align="center">
   <a href="mailto:weidongxu@westlake.edu.cn">Dongxu Wei*</a>
@@ -28,7 +28,8 @@ If you find this repository useful, please give us a star🌟!
 https://github.com/user-attachments/assets/9c584612-5fa0-4cfb-b711-046b8c0a2446
 
 ## News
-- 2026/4/13: Our paper is available on <a href="https://arxiv.org/abs/2604.11331">arXiv</a>. Code will be released soon. Stay tuned!
+- 2026/9/26: 🎉 Congratulations! Our paper is accepted by NeurIPS 2026. Code will be released very soon!
+- 2026/4/13: Our paper is available on <a href="https://arxiv.org/abs/2604.11331">arXiv</a>.
 
 ## TODO
 - [ ] Release code
